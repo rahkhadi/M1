@@ -6,8 +6,8 @@
       "type": "lldb",
       "request": "launch",
       "args": [],
-      "cwd": "/Users/admin/Desktop/oop345/M1",
-      "program": "/Users/admin/Desktop/oop345/M1/build/Debug/outDebug"
+      "cwd": "/Users/admin/Desktop/oop345/M2",
+      "program": "/Users/admin/Desktop/oop345/M2/build/Debug/outDebug"
     }
   ]
 }

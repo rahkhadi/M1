@@ -1,0 +1,4 @@
+/usr/bin/ld: Dwarf Error: found dwarf version '5', this reader only handles version 2, 3 and 4 information.
+/tmp/ccvJYL9C.o: In function `main':
+ms2_prof.cpp:(.text+0xa55): undefined reference to `sdds::CustomerOrder::CustomerOrder(sdds::CustomerOrder const&)'
+collect2: error: ld returned 1 exit status
